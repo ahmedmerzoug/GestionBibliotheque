@@ -1,0 +1,16 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\ahmed\Desktop\esprit\5b\DOTNet\5infoB2\DesignPattern-Service\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
